@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Глеб](https://up.htmlacademy.ru/htmlcss/31/user/1535957).
-* Наставник: `Неизвестно`.
+* Наставник: [Борис Слонов] (https://htmlacademy.ru/profile/slonov_boris).
 
 ---
 
